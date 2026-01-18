@@ -20,7 +20,7 @@ class Program
         //then we put true inside it so it can repeat
         //int.parse crashes when invalid input and it cant handle null
         //only if input is valid but when you put wrong input it crashes
-        //however you can you toint32 however it is very risky
+        //however you can do toint32 however it is very risky
         //this is why tryparse is the best it doesn't crashes when valid input
         //it can handle null which is good for apps/games
         int days;
