@@ -82,7 +82,7 @@ class Program
 
         return low;
     }
-
+    //ternary starts with highest then lowest temp
     //4th method which us get temps
     //which helps me classify the temperature of a person
     static string GetTemps(double temps)
